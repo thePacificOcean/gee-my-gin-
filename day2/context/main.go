@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go_code/gee/day2/context/gee"
+	"gee/gee"
 	"net/http"
 )
 
